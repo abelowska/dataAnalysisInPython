@@ -4,3 +4,4 @@
 3. [Linear Regression](https://github.com/abelowska/dataPy/blob/main/Classes_03_Linear_Regression.ipynb): Exercises in linear regression: estimating linear relationships between variables; loss functions; testing predictive power of models.
 4. [Non-linear models - K-Nearest Neighbours](https://github.com/abelowska/dataPy/blob/main/Classes_03_KNN.ipynb): Exercises in K-Nearest Neighbours - hyperparameters, regression and classification results interpretation.
 5. [Non-linear models - Decision Trees](https://github.com/abelowska/dataPy/blob/main/Classes_04_DT.ipynb): Exercises in Decision Trees - DT regression, data transformation and scalings.
+6. [Non-linear models - Linear SVC](https://github.com/abelowska/dataPy/blob/main/Classes_05_LinearSVM.ipynb): Exercises in SVM - Maximum Margin Classifier, hard and soft margins.
